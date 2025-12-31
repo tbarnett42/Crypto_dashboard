@@ -76,7 +76,3 @@ crypto-dashboard/
 ├── package.json
 └── README.md
 ```
-
-## License
-
-_Specify your license here_
