@@ -17,7 +17,7 @@ Crypto Dashboard is a React-based web application that allows users to search, f
 
 ## Screenshots
 
-![Crypto Dashboard Screenshot](./assets/crypto-dashboard-screenshot.png)
+![Crypto Dashboard Screenshot](Screenshot.png)
 
 _Sample view of the dashboard UI_
 
